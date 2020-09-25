@@ -9,7 +9,9 @@
 
 ## Sample algos'
 <ol>
- <li> <b><a href='https://github.com/CocoGinger/algo/tree/master/url_extractor'>Url Extractor</a></b></li>
+ <li> <b><a href='https://github.com/CocoGinger/algo/tree/master/url_extractor'>Url Extractor</a></b>
+  
+ </li>
 </ol>
  
 

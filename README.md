@@ -16,5 +16,5 @@
  
 
 ## Contributing
-<p>Those who wish to contribute(I pray so you do) please fork the repo and create some PR abd lets lear together</p>
+<p>Those who wish to contribute(I pray so you do) please fork the repo and create some PR abd lets learn together</p>
 

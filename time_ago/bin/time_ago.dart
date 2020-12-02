@@ -44,11 +44,11 @@ String timeAgo(DateTime time) {
     ///if the time span is greater than one month
     ///{[conTime.value > 30]}
     ///return the actual date of the post time in {[dd/mm/yyyy]}
-    conTime = time.toDate().day.toString() +
+    conTime = time.day.toString() +
         '/' +
-        time.toDate().month.toString() +
+        time.month.toString() +
         '/' +
-        time.toDate().year.toString();
+        time.year.toString();
   }
 
   ///return converted time value

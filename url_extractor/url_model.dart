@@ -1,5 +1,5 @@
 class UrlModel {
-  List urlLink;
+  List ?urlLink;
   
   UrlModel({
     this.urlLink

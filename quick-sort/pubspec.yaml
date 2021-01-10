@@ -1,7 +1,7 @@
 name: quicksort
-description: A simple command-line application.
+description: quicksort algorithm
 # version: 1.0.0
-# homepage: https://www.example.com
+# homepage: bnt.now.sh/quicksort
 
 environment:
   sdk: '>=2.10.0 <3.0.0'
